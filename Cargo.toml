@@ -1,0 +1,10 @@
+[package]
+name = "tmp"
+version = "0.1.0"
+authors = ["Kaelin Laundry <wasabifan@outlook.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dev-dependencies]
+mockall = "0.9.0"
